@@ -9,6 +9,7 @@ public class HelloController {
 	@GetMapping("/")
 	public String HelloController() {
 		
-		return "welcome to Dj API service updated again";
+		return "welcome to Dj API service updated again merge1";
+
 	}
 }
